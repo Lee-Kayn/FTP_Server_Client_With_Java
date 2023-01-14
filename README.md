@@ -1,6 +1,7 @@
 # FTP_Server_Client_With_Java  
 **Đồ án về mạng máy tính và hệ điều hành**  
-Có thể connect giữa windown và linux  
+Có thể connect giữa windown và linux, có kết nối SQL  
+Check cổng và host cũng như username và password
 
 ![Một vài hình ảnh về chức năng]  
 
